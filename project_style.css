@@ -189,28 +189,28 @@
     margin-bottom:1rem;
 }
 .box1-image{
-    background-image:url("/PROJECT/images/box1.jpg") ;
+    background-image:url("./PROJECT/images/box1.jpg") ;
 }
 .box2-image{
-    background-image:url("/PROJECT/images/box2.jpg") ;
+    background-image:url("./PROJECT/images/box2.jpg") ;
 }
 .box3-image{
-    background-image:url("/PROJECT/images/box3.jpg") ;
+    background-image:url("./PROJECT/images/box3.jpg") ;
 }
 .box4-image{
-    background-image:url("/PROJECT/images/box4.jpg") ;
+    background-image:url("./PROJECT/images/box4.jpg") ;
 }
 .box5-image{
-    background-image:url("/PROJECT/images/box5.jpg") ;
+    background-image:url("./PROJECT/images/box5.jpg") ;
 }
 .box6-image{
-    background-image:url("/PROJECT/images/box6.jpg") ;
+    background-image:url("./PROJECT/images/box6.jpg") ;
 }
 .box7-image{
-    background-image:url("/PROJECT/images/box7.jpg") ;
+    background-image:url("./PROJECT/images/box7.jpg") ;
 }
 .box8-image{
-    background-image:url("/PROJECT/images/box8.jpg") ;
+    background-image:url("./PROJECT/images/box8.jpg") ;
 }
 .box-content{
     margin:1rem;
